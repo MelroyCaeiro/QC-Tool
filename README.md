@@ -1,7 +1,8 @@
 # QC-Tool
 Python script to match QR code and text label using OCR
 
-QC-01.py works great with handheld cameras or tripod (two-step process: auto QR code detection, press 'Q' for OCR detection).
+QC-01.py works great with handheld cameras or tripod (two-step process: auto QR code detection, press 'Q' for OCR detection)
+
 QC-02.py works best with tripod only (single-step process: press 'Q' for QR and OCR detection in one frame)
 
 Press 'P' to edit incorrect OCR scans

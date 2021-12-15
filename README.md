@@ -17,3 +17,5 @@ Set-up:
 4. pip install XlsxWriter
 5. pip install opencv-python
 6. pip install beepy
+
+<center><img src="https://github.com/MelroyCaeiro/LightSync/blob/main/1634714543742.jpg" width="360" height="800"></center>
